@@ -67,3 +67,9 @@ Per ricominciare completamente da zero, chiudere il programma e cancellare `Maga
 ## Dipendenze
 
 Solo libreria standard Go: nessun pacchetto esterno, nessun database, nessun Excel, nessun ActiveX.
+
+## FILE DB
+
+Per chi volesse eseguire il software direttamente basta scaricare il file .deb e installarlo nel vostro Linux.
+Successivamente provvederò a fornirVi il file .exe per Windows.
+Accetto consigli e critiche! 
