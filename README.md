@@ -68,7 +68,7 @@ Per ricominciare completamente da zero, chiudere il programma e cancellare `Maga
 
 Solo libreria standard Go: nessun pacchetto esterno, nessun database, nessun Excel, nessun ActiveX.
 
-## FILE DB
+## FILE DEB
 
 Per chi volesse eseguire il software direttamente scaricare il file .deb e installarlo.
 Successivamente provvederò a fornirVi il file .exe per Windows.
