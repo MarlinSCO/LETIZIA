@@ -70,6 +70,6 @@ Solo libreria standard Go: nessun pacchetto esterno, nessun database, nessun Exc
 
 ## FILE DB
 
-Per chi volesse eseguire il software direttamente basta scaricare il file .deb e installarlo nel vostro Linux.
+Per chi volesse eseguire il software direttamente scaricare il file .deb e installarlo.
 Successivamente provvederò a fornirVi il file .exe per Windows.
-Accetto consigli e critiche! 
+Accetto consigli, critiche e idee. 
